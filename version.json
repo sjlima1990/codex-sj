@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.4",
-  "notas": "Janela em tela cheia (maximizar), marca d'água do ofício centralizada e suave, e a IA agora escreve no contexto da secretaria de cada cliente.",
+  "versao": "1.0.5",
+  "notas": "Sincronização do histórico entre os computadores da mesma secretaria (lista, numeração e arquivos, com criptografia). Marca d'água também no ofício da Saúde.",
   "url_pacote": "https://github.com/sjlima1990/codex-sj/releases/download/programa/SjDocs_programa.zip",
   "url_download": "https://github.com/sjlima1990/codex-sj/releases/latest"
 }
