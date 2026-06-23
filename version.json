@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.5",
-  "notas": "Sincronização do histórico entre os computadores da mesma secretaria (lista, numeração e arquivos, com criptografia). Marca d'água também no ofício da Saúde.",
+  "versao": "1.0.6",
+  "notas": "Tratamento formal do destinatário no ofício (Excelentíssimo/Senhor + vocativo, conforme o cargo e o sexo) e novo cliente: Gabinete do Prefeito.",
   "url_pacote": "https://github.com/sjlima1990/codex-sj/releases/download/programa/SjDocs_programa.zip",
   "url_download": "https://github.com/sjlima1990/codex-sj/releases/latest"
 }
