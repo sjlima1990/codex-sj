@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.6",
-  "notas": "Tratamento formal do destinatário no ofício (Excelentíssimo/Senhor + vocativo, conforme o cargo e o sexo) e novo cliente: Gabinete do Prefeito.",
+  "versao": "1.0.7",
+  "notas": "Painel de Instalações: cada programa registra-se na nuvem (secretaria, versão, último acesso), visível no Painel Administrativo.",
   "url_pacote": "https://github.com/sjlima1990/codex-sj/releases/download/programa/SjDocs_programa.zip",
   "url_download": "https://github.com/sjlima1990/codex-sj/releases/latest"
 }
