@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.7",
-  "notas": "Painel de Instalações: cada programa registra-se na nuvem (secretaria, versão, último acesso), visível no Painel Administrativo.",
+  "versao": "1.0.8",
+  "notas": "Botão 'Atualizar agora' no topo do programa: quando há nova versão, aparece um botão verde e, ao clicar, o programa se atualiza sozinho (sem reinstalar).",
   "url_pacote": "https://github.com/sjlima1990/codex-sj/releases/download/programa/SjDocs_programa.zip",
   "url_download": "https://github.com/sjlima1990/codex-sj/releases/latest"
 }
