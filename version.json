@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.9",
-  "notas": "Versículo do dia num cartão elegante (branco-nuvem, letra serifada). Importação de documentos mais clara: lê foto, PDF e Word.",
+  "versao": "1.0.10",
+  "notas": "No ofício: opção de inserir TABELA (ideal para pedidos de materiais) e a IA agora abre um campo onde você descreve como quer o texto (estilo prompt) — ou cria só pelo assunto.",
   "url_pacote": "https://github.com/sjlima1990/codex-sj/releases/download/programa/SjDocs_programa.zip",
   "url_download": "https://github.com/sjlima1990/codex-sj/releases/latest"
 }
