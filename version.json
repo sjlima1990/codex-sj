@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.11",
-  "notas": "Nuvem agora é só backup (cada computador com seu próprio histórico). Botão de atualização no topo. Primeira abertura pede para configurar seus dados, e Saúde/Assistência começam sem assinante de exemplo. Correção ao salvar ofício com número que contém barra.",
+  "versao": "1.0.12",
+  "notas": "Correção importante: o número de diárias agora sai certo (não aparece mais '1 e meia' quando são 2, 3, 4...). Nova opção de ASSINATURA DIGITAL (envie sua imagem nas Configurações e ela aparece nos ofícios). Ajustes na configuração inicial.",
   "url_pacote": "https://github.com/sjlima1990/codex-sj/releases/download/programa/SjDocs_programa.zip",
   "url_download": "https://github.com/sjlima1990/codex-sj/releases/latest"
 }
