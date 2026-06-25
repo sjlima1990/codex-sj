@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.13",
-  "notas": "Correção do sistema de atualização: o botão 'Atualizar' agora aparece de verdade quando há versão nova (a checagem antiga falhava no executável). Novo botão 'Verificar atualização' nas Configurações. Tela de seleção de perfil mais limpa. Inclui também a correção do número de diárias e a assinatura digital.",
+  "versao": "1.0.14",
+  "notas": "Importação de documentos agora funciona também com PDF e Word (não só fotos). Dá para configurar o nome da Secretaria e o Departamento nas Configurações (identifica o setor no topo). Inclui as correções anteriores (número de diárias e sistema de atualização).",
   "url_pacote": "https://github.com/sjlima1990/codex-sj/releases/download/programa/SjDocs_programa.zip",
   "url_download": "https://github.com/sjlima1990/codex-sj/releases/latest"
 }
