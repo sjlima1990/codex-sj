@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.15",
-  "notas": "O aviso para configurar os dados agora aparece só uma vez (não toda vez que abre). Modelo de ofício da Saúde atualizado com o endereço CORRETO (Fundo Municipal de Saúde, Rua Manoel Amâncio, Nº 478). A diária da Saúde será atualizada na próxima versão.",
+  "versao": "1.0.16",
+  "notas": "Novidade: FOTO DE PERFIL e a lista '👥 Pessoas' — veja quem está online em todas as secretarias! Configure seu nome e foto em Configurações → Seu perfil. (É a primeira parte do chat; as mensagens vêm na próxima versão.)",
   "url_pacote": "https://github.com/sjlima1990/codex-sj/releases/download/programa/SjDocs_programa.zip",
   "url_download": "https://github.com/sjlima1990/codex-sj/releases/latest"
 }
