@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.17",
-  "notas": "Modelo de DIÁRIA da Saúde atualizado: endereço correto (Av. Manoel Amâncio, nº 03), novo formato com Termo de Compromisso, e o número de diárias e os valores saem certos. (O 'Nome do Chefe Imediato' fica em branco para preencher à mão.)",
+  "versao": "1.0.18",
+  "notas": "Novidade: o ENDEREÇO do rodapé do documento agora é configurável! Em Configurações → 'Endereço do documento', cada setor coloca o seu endereço (e pode salvar vários como favoritos). O último configurado fica automático em todos os documentos. Resolve o caso de departamentos com endereços diferentes.",
   "url_pacote": "https://github.com/sjlima1990/codex-sj/releases/download/programa/SjDocs_programa.zip",
   "url_download": "https://github.com/sjlima1990/codex-sj/releases/latest"
 }
