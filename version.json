@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.16",
-  "notas": "Novidade: FOTO DE PERFIL e a lista '👥 Pessoas' — veja quem está online em todas as secretarias! Configure seu nome e foto em Configurações → Seu perfil. (É a primeira parte do chat; as mensagens vêm na próxima versão.)",
+  "versao": "1.0.17",
+  "notas": "Modelo de DIÁRIA da Saúde atualizado: endereço correto (Av. Manoel Amâncio, nº 03), novo formato com Termo de Compromisso, e o número de diárias e os valores saem certos. (O 'Nome do Chefe Imediato' fica em branco para preencher à mão.)",
   "url_pacote": "https://github.com/sjlima1990/codex-sj/releases/download/programa/SjDocs_programa.zip",
   "url_download": "https://github.com/sjlima1990/codex-sj/releases/latest"
 }
