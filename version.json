@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.20",
-  "notas": "Chegou o CHAT de verdade! Agora dá para conversar entre as secretarias estilo Messenger: mensagens de texto, enviar fotos e arquivos (mande a diária pronta direto para a colega), com foto de perfil, status online e contador de mensagens novas. Sua foto agora aparece sempre no topo do programa.",
+  "versao": "1.0.21",
+  "notas": "Agora o chat também envia ÁUDIOS! Clique no 🎤, fale sua mensagem e clique de novo para enviar — a colega ouve com um toque no ▶. Com isso o chat fica completo: texto, fotos, arquivos e mensagens de voz entre todas as secretarias.",
   "url_pacote": "https://github.com/sjlima1990/codex-sj/releases/download/programa/SjDocs_programa.zip",
   "url_download": "https://github.com/sjlima1990/codex-sj/releases/latest"
 }
