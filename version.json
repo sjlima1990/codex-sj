@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.18",
-  "notas": "Novidade: o ENDEREÇO do rodapé do documento agora é configurável! Em Configurações → 'Endereço do documento', cada setor coloca o seu endereço (e pode salvar vários como favoritos). O último configurado fica automático em todos os documentos. Resolve o caso de departamentos com endereços diferentes.",
+  "versao": "1.0.19",
+  "notas": "Correção importante: o nome de quem assina agora SEMPRE fica salvo — inclusive nomes iguais ao exemplo (como a diretora Rafaela Raposo Ferreira, do Posto Iracema). Chega de recadastrar toda vez que abre o programa.",
   "url_pacote": "https://github.com/sjlima1990/codex-sj/releases/download/programa/SjDocs_programa.zip",
   "url_download": "https://github.com/sjlima1990/codex-sj/releases/latest"
 }
