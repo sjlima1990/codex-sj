@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.22",
-  "notas": "Três novidades! 1) ASSISTENTE POR VOZ: clique em 🎙️ Voz, fale o que precisa (ex.: 'quero um ofício solicitando diárias para o secretário Jeovan') e o programa preenche o documento sozinho — número, data, destinatário e texto — para você só revisar. Vale para ofícios e diárias. 2) NOTIFICAÇÃO estilo Messenger: bolinha vermelha com o número de mensagens novas e aviso quando chega mensagem. 3) CHAT mais rápido: sua mensagem aparece na hora que você envia.",
+  "versao": "1.0.23",
+  "notas": "Correcao do comando por voz: agora o programa entende bem melhor o que voce fala (a gravacao estava em qualidade baixa demais). Se nao entender, ele mostra o que ouviu, para voce corrigir. Tambem inclui melhorias internas de estabilidade.",
   "url_pacote": "https://github.com/sjlima1990/codex-sj/releases/download/programa/SjDocs_programa.zip",
   "url_download": "https://github.com/sjlima1990/codex-sj/releases/latest"
 }
