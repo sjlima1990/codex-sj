@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.21",
-  "notas": "Agora o chat também envia ÁUDIOS! Clique no 🎤, fale sua mensagem e clique de novo para enviar — a colega ouve com um toque no ▶. Com isso o chat fica completo: texto, fotos, arquivos e mensagens de voz entre todas as secretarias.",
+  "versao": "1.0.22",
+  "notas": "Três novidades! 1) ASSISTENTE POR VOZ: clique em 🎙️ Voz, fale o que precisa (ex.: 'quero um ofício solicitando diárias para o secretário Jeovan') e o programa preenche o documento sozinho — número, data, destinatário e texto — para você só revisar. Vale para ofícios e diárias. 2) NOTIFICAÇÃO estilo Messenger: bolinha vermelha com o número de mensagens novas e aviso quando chega mensagem. 3) CHAT mais rápido: sua mensagem aparece na hora que você envia.",
   "url_pacote": "https://github.com/sjlima1990/codex-sj/releases/download/programa/SjDocs_programa.zip",
   "url_download": "https://github.com/sjlima1990/codex-sj/releases/latest"
 }
