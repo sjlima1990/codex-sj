@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.24",
-  "notas": "Correcao no erro 503 da IA: quando o servico de IA do Google fica sobrecarregado (muita gente usando), o programa agora tenta de novo sozinho e troca de modelo automaticamente. Se ainda assim nao der, mostra um aviso claro (e temporario) em vez de um erro tecnico.",
+  "versao": "1.0.25",
+  "notas": "Novos avisos no canto da tela: quando alguem fica online aparece um aviso verde, e quando chega mensagem nova aparece o aviso azul (agora os dois empilham se vierem juntos). Assim voce percebe na hora quem entrou e quem te chamou.",
   "url_pacote": "https://github.com/sjlima1990/codex-sj/releases/download/programa/SjDocs_programa.zip",
   "url_download": "https://github.com/sjlima1990/codex-sj/releases/latest"
 }
