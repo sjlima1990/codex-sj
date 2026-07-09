@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.23",
-  "notas": "Correcao do comando por voz: agora o programa entende bem melhor o que voce fala (a gravacao estava em qualidade baixa demais). Se nao entender, ele mostra o que ouviu, para voce corrigir. Tambem inclui melhorias internas de estabilidade.",
+  "versao": "1.0.24",
+  "notas": "Correcao no erro 503 da IA: quando o servico de IA do Google fica sobrecarregado (muita gente usando), o programa agora tenta de novo sozinho e troca de modelo automaticamente. Se ainda assim nao der, mostra um aviso claro (e temporario) em vez de um erro tecnico.",
   "url_pacote": "https://github.com/sjlima1990/codex-sj/releases/download/programa/SjDocs_programa.zip",
   "url_download": "https://github.com/sjlima1990/codex-sj/releases/latest"
 }
